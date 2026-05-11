@@ -54,7 +54,7 @@ Side-by-side analysis of the top 5 and bottom 5 pizzas ranked by Revenue, Quanti
 ## 📂 Files
 
 
-├── ![Power BI Report]()   # Power BI report file
+├── ![Power BI Report](https://github.com/abhisheknirmal02-lab/Pizza-Sales-Report./blob/main/Pizza%20sales%20Report.pbix)   # Power BI report file
 ├── ![Raw Data]()        # Raw transactional dataset
 ├── ![SQL Data validation]()          # SQL validation queries
 ├── ![DAX code]()  
