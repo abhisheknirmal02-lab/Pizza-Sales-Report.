@@ -1,9 +1,7 @@
 # Pizza-Sales-Report.
 # 🍕 Pizza Sales Report — Power BI Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Domain](https://img.shields.io/badge/Domain-Sales%20Analytics-orange)
+
 
 An end-to-end **pizza restaurant sales analytics dashboard** built in Power BI, covering a full year of transactional data (Jan–Dec 2015). The report surfaces revenue trends, customer ordering patterns, and product performance across two interactive pages — giving decision-makers clear visibility into what's selling, what's not, and when the restaurant is busiest.
 
@@ -55,13 +53,12 @@ Side-by-side analysis of the top 5 and bottom 5 pizzas ranked by Revenue, Quanti
 
 ## 📂 Files
 
-```
-├── pizza_sales_report.pbix   # Power BI report file
-├── data/
-│   └── pizza_sales.csv       # Raw transactional dataset
-├── sql/
-│   └── queries.sql           # SQL validation queries
-└── screenshots/              # Dashboard page previews
+
+├── ![Power BI Report]()   # Power BI report file
+├── ![Raw Data]()        # Raw transactional dataset
+├── ![SQL Data validation]()          # SQL validation queries
+├── ![DAX code]()  
+└── ![Dashboard preview]()             # Dashboard page previews
 ```
 
 ---
