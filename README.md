@@ -58,9 +58,8 @@ Side-by-side analysis of the top 5 and bottom 5 pizzas ranked by Revenue, Quanti
 ├── ![Raw Data](https://github.com/abhisheknirmal02-lab/Pizza-Sales-Report./blob/main/Pizza%20Orders.csv)        
 ├── ![SQL Data validation](https://github.com/abhisheknirmal02-lab/Pizza-Sales-Report./blob/main/SQL%20Query%20for%20Pizza%20Sales%20Report.docx)          
 ├── ![DAX code](https://github.com/abhisheknirmal02-lab/Pizza-Sales-Report./blob/main/DAX%20Code%20of%20Pizza%20Sales%20Report..xlsx)  
-└── ![Dashboard preview](https://github.com/abhisheknirmal02-lab/Pizza-Sales-Report./blob/main/Pizza%20Slaes%20Report.png)             # Dashboard page previews
+└── ![Dashboard preview ](https://github.com/abhisheknirmal02-lab/Pizza-Sales-Report./blob/main/Pizza%20Slaes%20Report.png)           
 
----
 
 ## 🚀 How to Use
 
