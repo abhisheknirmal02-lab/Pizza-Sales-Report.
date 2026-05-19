@@ -1,7 +1,4 @@
-# Pizza-Sales-Report.
 # 🍕 Pizza Sales Report — Power BI Dashboard
-
-
 
 An end-to-end **pizza restaurant sales analytics dashboard** built in Power BI, covering a full year of transactional data (Jan–Dec 2015). The report surfaces revenue trends, customer ordering patterns, and product performance across two interactive pages — giving decision-makers clear visibility into what's selling, what's not, and when the restaurant is busiest.
 
